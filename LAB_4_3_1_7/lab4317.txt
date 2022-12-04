@@ -1,0 +1,25 @@
+LABORATORIUM
+
+Przewidywany czas
+15-20 minut
+
+Poziom trudności
+Średniozaawansowany
+
+Wymagania wstępne
+LABORATORIUM 4.1.3.6
+
+Cele
+Zapoznanie uczniów z:
+
+projektowanie i pisanie sparametryzowanych funkcji;
+wykorzystywanie instrukcji return;
+wykorzystywanie własnych funkcji.
+Scenariusz
+Twoim zadaniem jest napisanie i przetestowanie funkcji, która przyjmuje dwa argumenty (rok i miesiąc) i zwraca liczbę dni w danym miesiącu (podczas gdy tylko luty jest wrażliwy na wartość rok, twoja funkcja powinna być uniwersalna).
+
+Początkowa część funkcji jest gotowa. Teraz przekonaj funkcję do zwrócenia wartości None jeżeli argument jest pozbawiony sensu.
+
+Oczywiście możesz (i powinieneś) użyć wcześniej napisanej i przetestowanej funkcji (LABORATORIUM 4.1.3.6). To może być bardzo pomocne. Zachęcamy do korzystania z listy wypełnionej wartościami oznaczającymi długość poszczególnych miesięcy. Możesz ją utworzyć wewnątrz funkcji - ten trik znacznie skróci kod.
+
+Przygotowaliśmy kod testowy. Rozwiń go, aby dołączyć więcej przypadków testowych.

@@ -1,0 +1,22 @@
+LABORATORIUM
+
+Przewidywany czas
+10-15 minut
+
+Poziom trudności
+Łatwy
+
+Cele
+Zapoznanie uczniów z:
+
+projektowanie i pisanie sparametryzowanych funkcji;
+wykorzystywanie instrukcji return;
+testowanie funkcji.
+Scenariusz
+Twoim zadaniem jest napisanie i przetestowanie funkcji, która wymaga jednego argumentu (roku) i zwraca wartość True jeżeli rok jest przestępny, lub False jeśli nie jest.
+
+Ziarno funkcji jest już zasiane w szkielecie kodu w edytorze.
+
+Uwaga: przygotowaliśmy również krótki kod testowy, którego możesz użyć do przetestowania swojej funkcji.
+
+Kod używa dwóch list - jednej z danymi testowymi i drugiej zawierającej oczekiwane wyniki. Kod powie Ci, czy którys z twoich wyników jest nieprawidłowy.

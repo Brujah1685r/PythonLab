@@ -1,0 +1,56 @@
+LABORATORIUM
+
+Przewidywany czas
+15-20 minut
+
+Poziom trudności
+Średniozaawansowany
+
+Cele
+zapoznanie się z klasycznymi pojęciami i algorytmami;
+doskonalenie umiejętności w zakresie definiowania i korzystania z funkcji.
+Scenariusz
+Liczba pierwsza to liczba naturalna, która ma dokładnie dwa dzielniki naturalne: jedynkę i siebie samą.
+
+Skomplikowane? Ani trochę. Na przykład 8 nie jest liczbą pierwszą, ponieważ możesz podzielić ją przez 2 i 4 (nie możemy używać dzielników równych 1 i 8, ponieważ definicja tego zakazuje).
+
+Z drugiej strony 7 jest liczbą pierwszą, ponieważ nie możemy znaleźć dla niej żadnych innych dzielników niż 1 i 7.
+
+
+Twoim zadaniem jest napisanie funkcji sprawdzającej, czy liczba jest liczbą pierwszą, czy nie.
+
+Funkcja:
+
+nazywa się czy_pierwsza;
+przyjmuje jeden argument (wartość do sprawdzenia)
+zwraca wartość True jeżeli argument jest liczbą pierwszą i wartość False jeśli nie jest.
+Wskazówka: spróbuj podzielić argument przez wszystkie kolejne wartości (zaczynając od 2) i sprawdź resztę - jeśli wynosi ona zero, twoja liczba nie może być liczbą pierwszą; pomyśl dokładnie, kiedy powinieneś przerwać proces.
+
+Jeśli chcesz poznać pierwiastek kwadratowy z danej wartości, możesz użyć operatora **. Pamiętaj: pierwiastek kwadratowy z x wynosi tyle samo co x0.5
+
+Uzupełnij kod w edytorze.
+
+Uruchom swój kod i sprawdź czy dane wyjściowe są takie same jak nasze.
+
+Dane testowe
+Oczekiwany wynik:
+
+2 3 5 7 11 13 17 19
+
+ 
+ Sandbox
+Code
+def czy_pierwsza(liczba):
+#
+# Wstaw swój kod tutaj.
+#
+
+for i in range(1, 20):
+if czy_pierwsza(i + 1):
+print(i + 1, end=" ")
+print()
+def czy_pierwsza(liczba):
+#
+
+
+Console 

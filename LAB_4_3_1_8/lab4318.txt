@@ -1,0 +1,48 @@
+LABORATORIUM
+
+Przewidywany czas
+20-30 minut
+
+Poziom trudności
+Średniozaawansowany
+
+Wymagania wstępne
+LABORATORIUM 4.3.1.6
+LABORATORIUM 4.3.1.7
+
+Cele
+Zapoznanie uczniów z:
+
+projektowanie i pisanie sparametryzowanych funkcji;
+wykorzystywanie instrukcji return;
+budowanie zestawu funkcji użytkowych;
+wykorzystywanie własnych funkcji.
+Scenariusz
+Twoim zadaniem jest napisanie i przetestowanie funkcji, która przyjmuje trzy argumenty (rok, miesiąc, oraz dzień miesiąca) i zwraca odpowiedni dzień roku lub wartość None jeśli którykolwiek z argumentów jest nieprawidłowy.
+
+Użyj wcześniej napisanych i przetestowanych funkcji. Dodaj kilka przypadków testowych do kodu. Ten test to tylko początek.
+
+ 
+ Sandbox
+Code
+def czy_przestepny(rok):
+#
+# twój kod z LABORATORIUM 4.1.3.6
+#
+
+def dni_w_miesiacu(rok, miesiac):
+#
+# twój kod z LABORATORIUM 4.1.3.7
+#
+
+def dzien_w_roku(rok, miesiac, dzien):
+#
+# wstaw nowy kod tutaj
+#
+
+print(dzien_w_roku(2000, 12, 31))
+def czy_przestepny(rok):
+
+
+Console 
+Prev Next
