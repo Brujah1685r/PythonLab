@@ -1,0 +1,38 @@
+LABORATORIUM
+
+Przewidywany czas
+10-15 minut
+
+Poziom trudności
+Łatwy
+
+Cele
+doskonalenie umiejętności w zakresie definiowania i korzystania z funkcji oraz ich testowania.
+Scenariusz
+Zużycie paliwa przez samochód może być wyrażone na wiele różnych sposobów. Na przykład w Europie wartość ta jest wyrażana jako ilość paliwa zużytego na 100 kilometrów.
+
+W USA jest ona przedstawiana jako liczba mil przejechanych przez samochód przy zużyciu jednego galona paliwa.
+
+Twoim zadaniem jest napisanie pary funkcji konwertujących l/100km na mpg i vice versa.
+
+Funkcje:
+
+są nazwane l100kmtompg oraz mpgtol100km;
+przyjmują jeden argument (wartość odpowiadająca ich nazwom)
+Uzupełnij kod w edytorze.
+
+Uruchom swój kod i sprawdź, czy dane wyjściowe są takie same jak nasze.
+
+Oto kilka informacji, które mogą ci pomóc:
+
+1 mila amerykańska = 1609.344 metrów;
+1 galon amerykański = 3.785411784 litrów.
+Dane testowe
+Oczekiwany wynik:
+
+60.31143162393162
+31.36194444444444
+23.52145833333333
+3.9007393587617467
+7.490910297239916
+10.009131205673757
